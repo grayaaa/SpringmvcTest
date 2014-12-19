@@ -1,4 +1,4 @@
-package com.gray.test.web.util;
+package com.gray.web.util;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 

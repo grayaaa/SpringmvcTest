@@ -11,7 +11,7 @@
         http://www.springframework.org/schema/mvc
         http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd">
 	<!-- 自动搜索@Controller标注的类 用于指明系统从哪个路径下寻找controller，然后提前初始化这些对象。 -->
-	<context:component-scan base-package="com.gray.test.web" />
+	<context:component-scan base-package="com.gray.web" />
 	<mvc:annotation-driven />
 
 	<!-- ③：对模型视图名称的解析，即在模型视图名称添加前后缀 -->

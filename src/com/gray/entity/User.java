@@ -1,4 +1,4 @@
-package com.gray.test.entity;
+package com.gray.entity;
 
 @SuppressWarnings("serial")
 public class User implements java.io.Serializable{	

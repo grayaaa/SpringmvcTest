@@ -1,6 +1,6 @@
-package com.gray.test.web;
+package com.gray.web;
 
-import com.gray.test.entity.User;
+import com.gray.entity.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
